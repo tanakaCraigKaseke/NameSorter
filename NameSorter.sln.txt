@@ -1,0 +1,2 @@
+// Solution file is optional for simple repos; provided for convenience.
+// You can open the 'src/NameSorter/NameSorter.csproj' and 'tests/NameSorter.Tests/NameSorter.Tests.csproj' directly in IDEs.
